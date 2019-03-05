@@ -1,0 +1,18 @@
+{
+  "name": "react-ninja",
+  "version": "1.0.0",
+  "description": "projeto desenvolvido durante o curso react ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard"
+  },
+  "author": "Monica Mota Ocariz",
+  "license": "ISC",
+  "dependencies": {
+    "semistandard": "^13.0.1",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
